@@ -1,0 +1,3 @@
+com.unity.production.screencapture;https://github.com/bamjadu/Tool_ScreenCapturer.git;Simple in-editor Screen capture tool
+com.unity.production.objectplacer;https://github.com/bamjadu/Tool_ObjectPlacer.git;Tools for placing objects into the scene
+com.unity.production.spline;https://github.com/bamjadu/Tool_Spline.git;Spline Tool for making wire-shaped meshes
